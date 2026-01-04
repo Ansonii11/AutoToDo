@@ -5,6 +5,22 @@
 
 Deje de ahogarse en listas de tareas interminables. **AutoToDo** es una extensión de gestión de tareas profesional para VS Code que le ayuda a organizar las tareas de su proyecto según su verdadero impacto, asegurando que siempre se concentre en lo que más importa.
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="media/preview/preview-1-hero-shot.png" width="100%" alt="Hero Shot">
+</p>
+
+<p align="center">
+  <img src="media/preview/preview-2-list-view.png" width="48%" alt="List View">
+  <img src="media/preview/preview-3-kanban-view.png" width="48%" alt="Kanban View">
+</p>
+
+<p align="center">
+  <img src="media/preview/preview-4-calendar-reminders.png" width="48%" alt="Calendar View">
+  <img src="media/preview/preview-5-modal-details.png" width="48%" alt="Modal View">
+</p>
+
 ## 🤖 Priorización Inteligente y Automatización
 
 A diferencia de otros gestores de tareas, **AutoToDo** incluye un motor de cálculo de prioridad que decide por usted qué es lo más urgente:

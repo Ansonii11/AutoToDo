@@ -3,17 +3,16 @@
   "displayName": "AutoToDo",
   "description": "Professional task manager for developers. Organize your project tasks with clear priorities, due dates, and reminders directly in VS Code.",
   "version": "1.0.1",
-  "publisher": "YurierHerrera",
-  "author": "Yurier Herrera",
+  "publisher": "Ansonii11",
+  "author": "Ansonii11",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yurier98/ToDo4VCode.git"
+    "url": "https://github.com/Ansonii11/AutoToDo.git"
   },
-  "homepage": "https://github.com/yurier98/ToDo4VCode/blob/main/README.md",
+  "homepage": "https://github.com/Ansonii11/AutoToDo#readme",
   "bugs": {
-    "url": "https://github.com/yurier98/ToDo4VCode/issues",
-    "email": "yurierjesus@gmail.com"
+    "url": "https://github.com/Ansonii11/AutoToDo/issues"
   },
   "qna": "marketplace",
   "engines": {
@@ -37,9 +36,7 @@
     "due-date",
     "multi-root ready"
   ],
-  "activationEvents": [
-    "onView:autotodo-view"
-  ],
+  "activationEvents": [],
   "main": "./out/extension.js",
   "icon": "media/icon.png",
   "contributes": {
